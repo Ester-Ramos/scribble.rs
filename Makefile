@@ -11,5 +11,5 @@ is-go-installed:
 
 build: is-go-installed ## Build binary file
 	GO111MODULE=on go run github.com/gobuffalo/packr/v2/packr2
-	CGO_ENABLED=0 go build -ldflags="-w -s" -o scribblers .
+	CGO_ENABLED=0 GO111MODULE=on go build -ldflags="-w -s" -o scribblers .
 	printf "\033[32mBuild done!\033[0m\n"
