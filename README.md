@@ -28,6 +28,8 @@ Feel free to play on any of these instances:
   > Might not respond right-away, just wait some seconds
 * http://scribble.rs
   > No HTTPS!
+### Spanish Version
+https://pintur-illo.herokuapp.com/
 
 ### Hosting your own instance for free
 
