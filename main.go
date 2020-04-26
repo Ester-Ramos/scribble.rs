@@ -4,8 +4,6 @@ import (
 	"log"
 	"math/rand"
 	"time"
-
-	"github.com/scribble-rs/scribble.rs/communication"
 )
 
 func main() {
